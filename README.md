@@ -18,18 +18,9 @@
 
 之前没用过github可以通过这个专栏了解[开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)，刚好可以学一下, 就可以上手操作啦
 
-
 ## 概览
 
 - 按照“专栏 → 文章”结构组织，点击链接可以直接跳转到对应文章可直接跳转到原文
-
-### [illustrate_column](https://blog.csdn.net/2301_80171004/category_13084661.html)
-
-- [\[Column\] How Databricks Implemented Intelligent K8s Load Balancing](https://lvynote.blog.csdn.net/article/details/154849123)
-- [\[Column\] 构建十亿/s级DB | 索引DB&RTDB | Kafka 为中心 | Rust 构建引擎](https://lvynote.blog.csdn.net/article/details/154801072)
-- [\[Column\] Perplexity 如何构建 AI 版 Google | 模型无关架构 | Vespa AI检索](https://lvynote.blog.csdn.net/article/details/154744302)
-- [\[Column#187\] 10data_struct | IP速查表 | 协议&TCP&UDP | DeepSeek-OCR](https://lvynote.blog.csdn.net/article/details/154728542)
-- [\[system-design\] ByteByteGo_Note Summary](https://lvynote.blog.csdn.net/article/details/148032902)
 
 ### [LLM | SLM | vLLM](https://blog.csdn.net/2301_80171004/category_13034013.html)
 
@@ -89,7 +80,17 @@
 - [\[LLM 应用评估\] 评估指标 | 评估协调器 | 测试集生成组件](https://lvynote.blog.csdn.net/article/details/150071908)
 - [\[BrowserOS\] LLM供应商集成 | 更新系统 | Sparkle框架 | 自动化构建系统 | Generate Ninja](https://lvynote.blog.csdn.net/article/details/149359284)
 - [\[GLM-4.5\] LLM推理服务器\(SGLang/vLLM\) | 工具与推理解析器](https://lvynote.blog.csdn.net/article/details/150469687)
-- [\[RAG\] LLM 交互层 | 适配器模式 | 文档解析器\(`docling`库, CNN, OCR, OpenCV\)](https://lvynote.blog.csdn.net/article/details/149418311)
+- [\[RAG\] LLM 交互层 | 适配器模式 | 文档解析器\(`docling`库, CNN, OCR, OpenCV\)
+- ](https://lvynote.blog.csdn.net/article/details/149418311)
+
+### [illustrate_column](https://blog.csdn.net/2301_80171004/category_13084661.html)
+
+- [\[Column\] How Databricks Implemented Intelligent K8s Load Balancing](https://lvynote.blog.csdn.net/article/details/154849123)
+- [\[Column\] 构建十亿/s级DB | 索引DB&RTDB | Kafka 为中心 | Rust 构建引擎](https://lvynote.blog.csdn.net/article/details/154801072)
+- [\[Column\] Perplexity 如何构建 AI 版 Google | 模型无关架构 | Vespa AI检索](https://lvynote.blog.csdn.net/article/details/154744302)
+- [\[Column#187\] 10data_struct | IP速查表 | 协议&TCP&UDP | DeepSeek-OCR](https://lvynote.blog.csdn.net/article/details/154728542)
+- [\[system-design\] ByteByteGo_Note Summary](https://lvynote.blog.csdn.net/article/details/148032902)
+
 
 ### [开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)
 
