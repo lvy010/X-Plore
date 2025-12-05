@@ -1,12 +1,27 @@
 # ThoughtMap
 
-blog-archive | catalog | sample code
+- 建议收集区：[/OpenMind/issues/1](https://github.com/lvy010/OpenMind/issues/1)
+- 选题讨论：[ThoughtMap/issues/1](https://github.com/lvy010/ThoughtMap/issues/1)
+- 技术平台的构想：[OpenMind](https://github.com/lvy010/OpenMind)
+- 7月后的笔记备份：[lvynote](https://github.com/lvy010/lvynote.github.io)
+- 自用的C++算法模板仓库(待整理):[a1og templates_cpp](https://github.com/lvy010/leetcode)
 
-> [Script LOG]自动汇总自 CSDN · 最后更新：2025-12-05 03:55:28 UTC+08:00
+传送门：
+
+去年的总结[C++自学分享](https://lvynote.blog.csdn.net/article/details/145308270)
+
+配置好环境可以让坐在电脑前刷题变的更加快乐：[VSCode配置LeetCode调试环境](https://lvynote.blog.csdn.net/article/details/145949237)
+
+题单：灵神的伟大无需多言(ㄒoㄒ）[分享｜如何科学刷题？](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/)
+
+整活mygo做主题的时候可能是最有行动力的一集了...[Typora-mygo-theme](https://github.com/lvy010/Typora-lvy-theme)
+
+之前没用过github可以通过这个专栏了解[开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)，刚好可以学一下, 就可以上手操作啦
+
 
 ## 概览
 
-- 按照“专栏 → 文章”结构组织，所有链接皆可直接跳转到原文。
+- 按照“专栏 → 文章”结构组织，点击链接可以直接跳转到对应文章可直接跳转到原文
 
 ### [illustrate_column](https://blog.csdn.net/2301_80171004/category_13084661.html)
 
@@ -1692,3 +1707,5 @@ blog-archive | catalog | sample code
 - [23.（C语言）编译和链接](https://lvynote.blog.csdn.net/article/details/137523757)
 - [24.预处理详解](https://lvynote.blog.csdn.net/article/details/137623054)
 - [22.（C语言）文件操作](https://lvynote.blog.csdn.net/article/details/137513306)
+
+> [Script LOG]自动汇总自 CSDN · 最后更新：2025-12-05 03:55:28 UTC+08:00
