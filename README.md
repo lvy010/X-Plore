@@ -1,4 +1,4 @@
-# ThoughtMap
+#### ThoughtMap
 
 - 建议收集区：[/OpenMind/issues/1](https://github.com/lvy010/OpenMind/issues/1)
 - 选题讨论：[ThoughtMap/issues/1](https://github.com/lvy010/ThoughtMap/issues/1)
