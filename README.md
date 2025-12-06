@@ -21,41 +21,47 @@ tips:建议看完这篇原文再看仓库：[leetcode题单分享_原文截图](
 
 之前没用过github可以通过这个专栏了解[开源指南project-based-learn](https://blog.csdn.net/2301_80171004/category_12991609.html)，刚好可以学一下, 就可以上手操作啦
 
+由于内容比较多，给一些下一步的想法列出来了备忘，不断完善优化٩( 'ω' )و
+
 下周plan: 将该仓库改造为wiki（一些待整理工作）
 
 1. ~~添加表格版索引~~（update 12.6）
 2. 目前只总结整理了部分笔记，7月后的笔记备份：[lvynote](https://github.com/lvy010/lvynote.github.io)还没加入，之后按照“专栏 → 文章”结构同下组织
-3. 类似算法学习分享部分的[readme](https://github.com/lvy010/leetcode))，写一份[算法之外]的分享，基于记录过的专栏做复盘
+3. 类似算法学习分享部分的[readme](https://github.com/lvy010/leetcode))，写一份[算法之外]我比较深入学习过 & 觉得有趣部分的分享，基于记录过的专栏做复盘
 4. 将做过的项目初步规范化，达到可供他人使用的标准，先开源出来再调整迭代
 
 ## 概览
 
 - 按照“专栏 → 文章”结构组织，点击链接可以直接跳转到对应文章可直接跳转到原文
 
+大家有什么有趣的项目/选题/课程推荐/想法 欢迎提出，如果这个repo可以帮你节约一些时间, 或者引起你的一些兴趣和思考，那真的是太好不过啦
 
-| 专栏                                                | 专栏                                              | 专栏                                                        | 专栏                                       |
-| ----------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------- | -------------------------------------------- |
-| [LLM \| SLM \| vLLM](#llm-slm-vllm)                 | [illustrate_column](#illustratecolumn)            | [开源指南project-based-learn](#开源指南project-based-learn) | [AIGC & Math \[Think\]](#aigc-math-think)  |
-| [AI底层&生态](#ai底层生态)                          | [AI框架&应用](#ai框架应用)                        | [强化学习RL](#强化学习rl)                                   | [Quantification](#quantification)          |
-| [Unmanned Aerial Vehicle](#unmanned-aerial-vehicle) | [Compilation Principles](#compilation-principles) | [K8S](#k8s)                                                 | [PHP](#php)                                |
-| [分布式 \| 去中心](#分布式-去中心)                  | [Product](#product)                               | [Robotics](#robotics)                                       | [CUDA](#cuda)                              |
-| [前端ts js](#前端ts-js)                             | [Qt & LVGL](#qt-lvgl)                             | [v8-JS Engine](#v8-js-engine)                               | [必备工具 \| 配置教程](#必备工具-配置教程) |
-| [解决方法](#解决方法)                               | [Docker & yaml配置](#docker-yaml配置)             | [CMU 15-445 & 大数据](#cmu-15-445-大数据)                   | [MySQL](#mysql)                            |
-| [Redis 文档学习](#redis-文档学习)                   | [C++](#c)                                         | [C++_notes](#cnotes)                                        | [STL源码剖析](#stl源码剖析)                |
-| [C++常用库 & 源码](#c常用库-源码)                   | [Java](#java)                                     | [Windows](#windows)                                         | [IOS \| Swift](#ios-swift)                 |
-| [Android](#android)                                 | [测试 \| 自动化 \| n8n](#测试-自动化-n8n)         | [performance analysis](#performance-analysis)               | [音视频](#音视频)                          |
-| [FFmpeg](#ffmpeg)                                   | [AI会议助手后端框架.cpp](#ai会议助手后端框架cpp)  | [智能驾驶](#智能驾驶)                                       | [AIoT](#aiot)                              |
-| [esp32--AI语音助手](#esp32-ai语音助手)              | [Linux os+网络](#linux-os网络)                    | [操作系统](#操作系统)                                       | [Linux网络实验](#linux网络实验)            |
-| [Linux_kernel](#linuxkernel)                        | [Delve into OS](#delve-into-os)                   | [算法随记](#算法随记)                                       | [Shell](#shell)                            |
-| [Web3](#web3)                                       | [爬虫](#爬虫)                                     | [system-design](#system-design)                             | [Rust](#rust)                              |
-| [golang](#golang)                                   | [C# demo](#c-demo)                                | [Python](#python)                                           | [py常用库 & 源码](#py常用库-源码)          |
-| [Computer Vision](#computer-vision)                 | [Engine & Rendering](#engine-rendering)           | [游戏设计](#游戏设计)                                       | [ElasticSearch](#elasticsearch)            |
-| [English学习&文档](#english学习文档)                | [vibe coding](#vibe-coding)                       | [Data structures\[C++\]](#data-structuresc)                 | [ProtoBuf \| Json](#protobuf-json)         |
-| [算法](#算法)                                       | [Lc随想录&图](#lc随想录图)                        | [Lc每日一题&周赛](#lc每日一题周赛)                          | [贪心算法](#贪心算法)                      |
-| [动态规划](#动态规划)                               | [Lc优选算法_100](#lc优选算法100)                  | [Lc递归，搜索与回溯](#lc递归，搜索与回溯)                   | [项目](#项目)                              |
-| [实现Json-Rpc](#实现json-rpc)                       | [boost搜索引擎](#boost搜索引擎)                   | [Microservice Chat Room](#microservice-chat-room)           | [设计模式](#设计模式)                      |
-| [Git CI/CD](#git-cicd)                              | [Others](#others)                                 | [youtube随记](#youtube随记)                                 | [network security](#network-security)      |
-| [读书笔记](#读书笔记)                               | [C语言](#c语言)                                   | ...                                                         | lvynote部分(待整理)                        |
+（之后应该会对表单进行学习指数的排序和"豆瓣评分"，我的一些学习感受，用作交流吧，不敢说是分享了，因为也只是凭兴趣学了一下orz，目前还是乱序，简单用emoji进行了标记，我有点沉浸在自己的艺术中不知道天地为何物了，不管有没有人看，反正自己是写爽了bush，就当我自言自语吧
+
+
+| 专栏                                                | 专栏                                              | 专栏                                                          | 专栏                                       |
+| ----------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------- |
+| [LLM \| SLM \| vLLM](#llm-slm-vllm)                 | [illustrate_column](#illustratecolumn)            | [🌱开源指南project-based-learn](#开源指南project-based-learn) | [AIGC & Math \[Think\]](#aigc-math-think)  |
+| [💡AI底层&生态](#ai底层生态)                        | [🔥AI框架&应用](#ai框架应用)                      | [强化学习RL](#强化学习rl)                                     | [Quantification](#quantification)          |
+| [Unmanned Aerial Vehicle](#unmanned-aerial-vehicle) | [Compilation Principles](#compilation-principles) | [K8S](#k8s)                                                   | [PHP](#php)                                |
+| [分布式 \| 去中心](#分布式-去中心)                  | [Product](#product)                               | [🤖Robotics](#robotics)                                       | [CUDA](#cuda)                              |
+| [前端ts js](#前端ts-js)                             | [🤓Qt & LVGL](#qt-lvgl)                           | [v8-JS Engine](#v8-js-engine)                                 | [必备工具 \| 配置教程](#必备工具-配置教程) |
+| [解决方法](#解决方法)                               | [Docker & yaml配置](#docker-yaml配置)             | [CMU 15-445 & 大数据](#cmu-15-445-大数据)                     | [📓MySQL](#mysql)                          |
+| [📋Redis 文档学习](#redis-文档学习)                 | [C++](#c)                                         | [C++_notes](#cnotes)                                          | [STL源码剖析](#stl源码剖析)                |
+| [🫧C++常用库 & 源码](#c常用库-源码)                 | [Java](#java)                                     | [Windows](#windows)                                           | [IOS \| Swift](#ios-swift)                 |
+| [Android](#android)                                 | [测试 \| 自动化 \| n8n](#测试-自动化-n8n)         | [performance analysis](#performance-analysis)                 | [音视频](#音视频)                          |
+| [FFmpeg](#ffmpeg)                                   | [AI会议助手后端框架.cpp](#ai会议助手后端框架cpp)  | [🚗智能驾驶](#智能驾驶)                                       | [😋AIoT](#aiot)                            |
+| [esp32--AI语音助手](#esp32-ai语音助手)              | [❗‼️Linux os+网络](#linux-os网络)              | [操作系统](#操作系统)                                         | [Linux网络实验](#linux网络实验)            |
+| [Linux_kernel](#linuxkernel)                        | [Delve into OS](#delve-into-os)                   | [🎢读书笔记](#读书笔记)                                       | [Shell](#shell)                            |
+| [🪙Web3](#web3)                                     | [爬虫](#爬虫)                                     | [system-design](#system-design)                               | [Rust](#rust)                              |
+| [golang](#golang)                                   | [C# demo](#c-demo)                                | [Python](#python)                                             | [py常用库 & 源码](#py常用库-源码)          |
+| [👁️Computer Vision](#computer-vision)             | [Engine & Rendering](#engine-rendering)           | [🎮游戏设计](#游戏设计)                                       | [ElasticSearch](#elasticsearch)            |
+| [English学习&文档](#english学习文档)                | [vibe coding](#vibe-coding)                       | [Data structures\[C++\]](#data-structuresc)                   | [ProtoBuf \| Json](#protobuf-json)         |
+| [算法](#算法)                                       | [Lc随想录&图](#lc随想录图)                        | [Lc每日一题&周赛](#lc每日一题周赛)                            | [贪心算法](#贪心算法)                      |
+| [动态规划](#动态规划)                               | [Lc优选算法_100](#lc优选算法100)                  | [Lc递归，搜索与回溯](#lc递归，搜索与回溯)                     | [项目](#项目)                              |
+| [实现Json-Rpc](#实现json-rpc)                       | [boost搜索引擎](#boost搜索引擎)                   | [Microservice Chat Room](#microservice-chat-room)             | [设计模式](#设计模式)                      |
+| [🧑‍🤝‍🧑Git CI/CD](#git-cicd)                    | [Others](#others)                                 | [youtube随记](#youtube随记)                                   | [network security](#network-security)      |
+| [🧱C语言](#c语言)                                   | ...in process                                     |                                                               | lvynote部分(待整理)                        |
 
 <a id="llm-slm-vllm"></a>
 
