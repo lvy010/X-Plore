@@ -1,3 +1,6 @@
+tips:建议看完这篇原文再看仓库：[leetcode题单分享_原文截图](https://github.com/lvy010/algo-together/blob/main/Share_the_original_text.md)
+(目前还一切都百废待兴，所以可以的话拜托请先看完一下这篇原文，第一次做仓库分享我也没有什么经验，有什么构想欢迎讨论和提建议，我可能需要一些交流和帮助🥹)
+
 #### ThoughtMap
 
 - 建议收集区：[/OpenMind/issues/1](https://github.com/lvy010/OpenMind/issues/1)
