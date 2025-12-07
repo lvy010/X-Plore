@@ -34,7 +34,8 @@
 | [🧑‍🤝‍🧑Git CI/CD](#git-cicd)                    | [Others](#others)                                 | [youtube随记](#youtube随记)                                   | [network security](#network-security)      |
 | [🧱C语言](#c语言)                                   | ...in process                                     |                                                               | lvynote部分(待整理)                        |
 #### in process
-进行学习指数的排序和"豆瓣评分"，我的一些学习感受，大部分是凭兴趣学了一下orz，表单目前简单用emoji，不管有没有人看，反正自己是写爽了，赛博仓鼠的学习症实录...
+对表单进行学习指数的排序和"豆瓣点评"，分享我的一些学习收获
+（大部分是凭兴趣学了一下orz，表单目前简单用emoji标记了一下，不管有没有人看，反正自己是写爽了，赛博仓鼠的学习症实录...）
 
 #### thoughtMap
 
