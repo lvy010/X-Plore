@@ -35,11 +35,11 @@
 对表单进行学习指数的排序和"豆瓣点评"，分享我的一些学习收获
 （大部分是凭兴趣学了一下orz，表单暂用emoji先标记了一下，赛博仓鼠的学习症实录...）
 
-#### thoughtMap（in process）
+#### thoughtMap
 
-后续计划对系列文章进行总结整理，更新至repo:[X-Plore]./X-Plore/从零开始的X学习之路 从零开始的X学习之路 下
+后续计划对系列文章进行总结整理，更新至 ./X-Plore/从零开始的X学习之路下
 
-内容比较多，可能需要一些时间，可以先mark，有什么感兴趣的想先看到，可以在issue中对专栏表格中文章进行选题讨论/投票
+内容比较多，可能需要一些时间，可以先mark一下~有什么感兴趣的想先看到，可以在issue中对专栏表格中文章进行选题讨论/投票
 
 - [[Discussions]从零开始的投票专栏٩( 'ω' )و #1](https://github.com/lvy010/X-Plore/issues/1)
 - [[Discussions]一些准备做的事情 #2](https://github.com/lvy010/X-Plore/issues/2)
