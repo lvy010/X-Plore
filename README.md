@@ -29,14 +29,23 @@
 | [实现Json-Rpc](#实现json-rpc)                       | [boost搜索引擎](#boost搜索引擎)                   | [Microservice Chat Room](#microservice-chat-room)             | [设计模式](#设计模式)                      |
 | [🧑‍🤝‍🧑Git CI/CD](#git-cicd)                    | [Others](#others)                                 | [youtube随记](#youtube随记)                                   | [network security](#network-security)      |
 | [🧱C语言](#c语言)                                   | ...in process                                     |                                                               | lvynote部分(待整理)                        |
-#### in process
+in process：
 对表单进行学习指数的排序和"豆瓣点评"，分享我的一些学习收获
-（大部分是凭兴趣学了一下orz，表单暂用emoji先标记了一下，赛博仓鼠的学习症实录...）
+（大部分是凭兴趣学了一下orz，表单暂用emoji先标记了，赛博仓鼠的学习症实录...）
 
-### Discussions
+### Re:Discussions
 
 后续计划对系列文章进行总结整理，更新至 [./从零开始的X学习之路](./从零开始的X学习之路/) 下
 
+#### completed
+
+- [Re:Algo - Starting Algorithms from Zero](./从零开始的X学习之路/从零开始的算法学习之路.md)
+
+#### in process
+
+- [Re:Project - Building Boost-Search from Scratch](https://github.com/lvy010/boost_searcher)
+
+#### the next article
 内容比较多，可能需要一些时间，可以先mark一下~有什么感兴趣想先看到的选题，可以在issue中对专栏表格中的内容进行讨论交流/投票
 
 - [[Discussions]从零开始的讨论专栏٩( 'ω' )و #1](https://github.com/lvy010/X-Plore/issues/1)
