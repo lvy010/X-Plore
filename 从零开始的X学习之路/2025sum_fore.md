@@ -1,6 +1,10 @@
-# 娱乐编程两年半
+# 2025sum碎碎念
 
-最开始准备叫摸鱼编程的，学校老师的课没怎么听进去，可能自己摸鱼了七八千个小时，上课用手机摸/睡觉，下课用电脑/熬夜摸，凭兴趣想到什么摸什么...感谢大学学计算机带来的独立思考时光，很开心٩( 'ω' )و
+这篇文章作为[2025年末总结]的预告吧
+
+（&最近准备期末周去了,1.10完全考完orz，这篇文章是帖子的backsup）
+
+最开始准备叫摸鱼编程的，学校老师的课没怎么听进去，可能自己摸鱼了七八千个小时，上课用手机摸/睡觉，下课用电脑/熬夜摸，凭兴趣想到什么摸什么...感谢大学学计算机带来的独立思考时光
 
 ![](../png/2025_sum/github.png)
 
@@ -8,7 +12,7 @@
 
 主页放的项目是一年多前写的简单项目，适合用C++写项目入门，大家有什么想法/问题都可以提pr/issue，项目重构了一半，去做别的事情了，大家感兴趣可以继续写，寒假应该会把做过的demo都完善后列出list
 
-最近在用rust做后端，对web3infra Orion Server Buck2 restructures logs,  暑假主要做的偏C和图形学方向，Contributed to Xiaomi OpenVela open-source project by adding a music player feature. 如果好奇开源Like coding & Curious about computer science就可以去做啦，预祝大家都可以找到自己感兴趣的事情٩( 'ω' )و
+最近在用rust做后端，对web3infra Orion Server Buck2 restructures logs,  暑假主要做的偏C和图形学方向，Contributed to Xiaomi OpenVela open-source project by adding a music player feature. 如果好奇开源Like coding & Curious about computer science就可以去做啦，预祝大家都可以找到自己感兴趣的事情
 
 ![](../png/2025_sum/bilibili.png)
 
@@ -16,14 +20,14 @@
 
 b站开的同id小号，目前只发了这个抽象的视频，寒假准备跟上时代尝试做一些视频
 
-
-
 ![](../png/2025_sum/blog.png)
-
 
 之前做的主要是文字分享，七月前用的这个博客，可以根据 X-Plore repo的整合目录跳转看需要的文章，太多了直接翻可能不太好翻，七月后本地笔记的文章backsup到了lvynote.github.io，上面账号上都记的自言自语，还有一些随手的复习了
 
-这篇文章作为今年[年末总结]的预告和碎碎念吧
 
-刚改完明天上午大作业的答辩报告，越压力好像越有整活灵感...
+---
 
+
+还有没事干可能也会建一个仓库 整理一些计算机之外的东西 一些关于事情的理解与思考 写东西使我快乐
+
+~~完全把github当云端了~~
