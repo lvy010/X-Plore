@@ -2,6 +2,9 @@
 
 # X-Plore
 
+Core: Document everything - recording the learning process itself is a contribution.
+
+
 - 按照“专栏 → 文章”结构组织，点击可以直接跳转到对应文章
 
 如果这个仓库可以帮你节约一些时间, 或者引起一些兴趣和思考，那真的是太好不过啦, 预祝有一段快乐的编程探索之旅٩( 'ω' )و
