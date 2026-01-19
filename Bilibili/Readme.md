@@ -13,8 +13,11 @@ bilibili表达练习 计划/归档/稿件/文本/相关链接...存放处
 
 视频AI模型：Kling 2.6
 
-ppt AI模型:谷歌的 忘记叫什么了 之后我找找
+ppt AI模型:Notebooklm
+
 - [澪ちゃん小课堂](https://www.bilibili.com/video/BV1ZCrWBvECJ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=1ace6c545a2f11779a002209211e9e26)
+
+
 
 ### Leetcode Hot100
 - [1.岛屿数量|bfs&dfs](https://www.bilibili.com/video/BV1GHrtBTEs2/?spm_id_from=333.1387.homepage.video_card.click&vd_source=1ace6c545a2f11779a002209211e9e26)

@@ -74,7 +74,8 @@ tips:
 --------
 ### to do list
 
-> Preparing an **agent + my_note -> X-Plore 2.0** to help those who are interested enjoy a joyful programming exploration journey
+[√]Preparing an **agent + my_note -> X-Plore 2.0** to help those who are interested enjoy a joyful programming exploration journey
+- github-agent初步实现:https://github.com/lvy010/github-agent
 
 由于内容比较多，给一些下一步的想法列出来了备忘，不断完善优化ing
 
@@ -82,8 +83,8 @@ tips:
 
 1. ~~添加表单版索引（update 12.7）~~
 2. 目前只总结整理了部分笔记，7月后的笔记备份：[lvynote](https://github.com/lvy010/lvynote.github.io)还没加入，之后按照“专栏 → 文章”结构同下组织
-3. 类似算法学习分享部分的[readme](https://github.com/lvy010/leetcode))，写一份[算法之外]我比较深入学习过 & 觉得有趣部分的分享，基于记录过的专栏做复盘
-4. 将做过的项目初步规范化，达到可供他人使用的标准，先开源出来再调整迭代
+3. ~~类似算法学习分享部分的[readme](https://github.com/lvy010/leetcode))，写一份[算法之外]我比较深入学习过 & 觉得有趣部分的分享，基于记录过的专栏做复盘~~
+4. ~~将做过的项目初步规范化，达到可供他人使用的标准，先开源出来再调整迭代~~
 
 ## Building
 
