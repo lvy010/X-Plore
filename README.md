@@ -18,36 +18,24 @@
 - **Notes before Jul 2025**: [lvynote.com](https://blog.csdn.net/2301_80171004?type=blog)
 - **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
 
-部署到[个人网站](https://lvyovo-wiki.tech)上啦
-
-<img src="./png/web.png" alt="预览" width="200">
-
-I like solving problems and exploring various designs · Quickly learning and consolidating systematic documentation · Sharing after gaining my own understanding
-
-关于网站的建议/想法/问题 都可以在这个仓库下提issue/邮箱我٩( 'ω' )و
+关于博客的建议/想法/问题 都可以在这个仓库下提issue/邮箱我٩( 'ω' )و
 
 <p align="center">
   <a href="https://b23.tv/adNU4UH">作品集</a> ·
-  <a href="https://github.com/lvy010/X-Plore/blob/main/repo/github_repos_cn.md">262个仓库整理</a> ·
   <a href="https://lvyovo-wiki.tech/share">个人专栏</a> ·
-  <a href="https://lvyovo-wiki.tech/projects">项目整合</a> ·
-  <a href="https://github.com/lvy010/Algo-Atlas">Leetcode</a> ·
-  <a href="https://github.com/lvy010/X-Plore">千篇文章整合</a> ·
+  <a href="https://lvyovo-wiki.tech/projects">项目</a> ·
   <a href="https://lvyovo-wiki.tech/blog/podcast">播客</a> ·
-  <a href="http://xhslink.cn/o/AqPqMo8m3Ga">亚洲最大的hackthon双奖</a> ·
-  <a href="./data/CV.pdf">CV</a> ·
+  <a href="http://xhslink.cn/o/AqPqMo8m3Ga">hackthon</a> ·
+  <a href="https://lvyovo-wiki.tech/prof">CV</a> ·
   <a href="https://lvyovo-wiki.tech/blog/25sum">2025 sum</a> ·
-  <a href="https://lvynote.blog.csdn.net/article/details/145308270">2024 C++</a> ·
-   <a href="https://xhslink.com/m/A0RmObjbu2e">1000+ q&a</a>
+  <a href="https://lvynote.blog.csdn.net/article/details/145308270">2024 C++</a>
 </p> 
 
 ---
 
-Core: Document everything - recording the learning process itself is a contribution.
+- Document everything - recording the learning process itself is a contribution.
 
 - 按照“专栏 → 文章”结构组织，点击可以直接跳转到对应文章
-
-算法学习分享见:[Algo-Atlas](https://github.com/lvy010/Algo-Atlas)，下面主要是算法之外的一些
 
 如果这个仓库可以帮你节约一些时间, 或者引起一些兴趣和思考，那真的是太好不过啦, 预祝有一段快乐的编程探索之旅
 
@@ -79,6 +67,10 @@ Core: Document everything - recording the learning process itself is a contribut
 in process：
 
 [√]对表单进行学习指数的排序和"豆瓣点评"，分享我的一些学习收获，大部分是凭兴趣学了一下orz，表单暂用emoji先标记了，赛博仓鼠的学习症实录...
+
+算法学习分享见:[Algo-Atlas](https://github.com/lvy010/Algo-Atlas)，下面主要是算法之外的一些
+
+I like solving problems and exploring various designs · Quickly learning and consolidating systematic documentation · Sharing after gaining my own understanding
 
 ### Re:Discussions
 
