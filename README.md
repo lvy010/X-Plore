@@ -15,10 +15,7 @@
   </a>
 </p>
 
-- **Notes before Jul 2025**: [lvynote.com](https://blog.csdn.net/2301_80171004?type=blog)
-- **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
-
-<p align="center">
+<p align="left">
   <a href="https://b23.tv/adNU4UH">作品集</a> ·
   <a href="https://lvyovo-wiki.tech/share">个人专栏</a> ·
   <a href="https://lvyovo-wiki.tech/projects">项目</a> ·
@@ -33,13 +30,10 @@
 
 ---
 
-- Document everything - recording the learning process itself is a contribution.
+按照“专栏 → 文章”结构组织，点击可以直接跳转到对应文章
 
-- 按照“专栏 → 文章”结构组织，点击可以直接跳转到对应文章
-
-如果这个仓库可以帮你节约一些时间, 或者引起一些兴趣和思考，那真的是太好不过啦, 预祝有一段快乐的编程探索之旅
-
-| --------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------ |
+| | | | |
+| --- | --- | --- | --- |
 | [LLM \| SLM \| vLLM](#llm-slm-vllm)                 | [illustrate_column](#illustratecolumn)            | [🌱开源指南project-based-learn](#开源指南project-based-learn) | [AIGC & Math \[Think\]](#aigc-math-think)  |
 | [💡AI底层&生态](#ai底层生态)                        | [🔥AI框架&应用](#ai框架应用)                      | [强化学习RL](#强化学习rl)                                     | [Quantification](#quantification)          |
 | [Unmanned Aerial Vehicle](#unmanned-aerial-vehicle) | [Compilation Principles](#compilation-principles) | [K8S](#k8s)                                                   | [PHP](#php)                                |
@@ -62,11 +56,17 @@
 | [🧑‍🤝‍🧑Git CI/CD](#git-cicd)                    | [Others](#others)                                 | [youtube随记](#youtube随记)                                   | [network security](#network-security)      |
 | [🧱C语言](#c语言)                                   | ...in process                                     |                                                               | lvynote部分(待整理)                        |
 
+- Document everything - recording the learning process itself is a contribution.
+- 如果这个仓库可以帮你节约一些时间, 或者引起一些兴趣和思考，那真的是太好不过啦, 预祝有一段快乐的编程探索之旅
+
 in process：
 
 [√]对表单进行学习指数的排序和"豆瓣点评"，分享我的一些学习收获，大部分是凭兴趣学了一下orz，表单暂用emoji先标记了，赛博仓鼠的学习症实录...
 
 算法学习分享见:[Algo-Atlas](https://github.com/lvy010/Algo-Atlas)，下面主要是算法之外的一些
+
+- **Notes before Jul 2025**: [lvynote.com](https://blog.csdn.net/2301_80171004?type=blog)
+- **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
 
 I like solving problems and exploring various designs · Quickly learning and consolidating systematic documentation · Sharing after gaining my own understanding
 
