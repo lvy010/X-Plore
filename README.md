@@ -1,9 +1,6 @@
 # X-Plore
 
 <p>
-  <a href="https://leetcode.cn/u/hhczc/">
-    <img src="https://img.shields.io/badge/LeetCode-D8A7B1?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
-  </a>
   <a href="mailto:lvyovo01@gmail.com">
     <img src="https://img.shields.io/badge/lvyovo01%40gmail.com-C9B6E4?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
@@ -13,12 +10,13 @@
     <a href="https://xhslink.com/m/A0RmObjbu2e">
     <img src="https://img.shields.io/badge/lvyneko-B8D8D8?style=flat-square&logo=xiaohongshu&logoColor=white" alt="xiaohongshu"/>
   </a>
+    <a href="https://leetcode.cn/u/hhczc/">
+    <img src="https://img.shields.io/badge/LeetCode-D8A7B1?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
+  </a>
 </p>
 
 - **Notes before Jul 2025**: [lvynote.com](https://blog.csdn.net/2301_80171004?type=blog)
 - **Notes after Jul 2025 (in progress)**: [lvynote.github.io](https://github.com/lvy010/lvynote.github.io)
-
-关于博客的建议/想法/问题 都可以在这个仓库下提issue/邮箱我٩( 'ω' )و
 
 <p align="center">
   <a href="https://b23.tv/adNU4UH">作品集</a> ·
@@ -31,6 +29,8 @@
   <a href="https://lvynote.blog.csdn.net/article/details/145308270">2024 C++</a>
 </p> 
 
+关于博客的建议/想法/问题 都可以在这个仓库下提issue/邮箱我٩( 'ω' )و
+
 ---
 
 - Document everything - recording the learning process itself is a contribution.
@@ -39,8 +39,6 @@
 
 如果这个仓库可以帮你节约一些时间, 或者引起一些兴趣和思考，那真的是太好不过啦, 预祝有一段快乐的编程探索之旅
 
-
-| 专栏                                                | 专栏                                              | 专栏                                                          | 专栏                                       |
 | --------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------ |
 | [LLM \| SLM \| vLLM](#llm-slm-vllm)                 | [illustrate_column](#illustratecolumn)            | [🌱开源指南project-based-learn](#开源指南project-based-learn) | [AIGC & Math \[Think\]](#aigc-math-think)  |
 | [💡AI底层&生态](#ai底层生态)                        | [🔥AI框架&应用](#ai框架应用)                      | [强化学习RL](#强化学习rl)                                     | [Quantification](#quantification)          |
